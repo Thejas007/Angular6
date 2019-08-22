@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/thejasgowdan/thejasgowdan/_apis/build/status/Thejas007.Angular6?branchName=master)](https://dev.azure.com/thejasgowdan/thejasgowdan/_build/latest?definitionId=1&branchName=master)
+
 # Angular6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
