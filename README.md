@@ -1,8 +1,12 @@
 [![Build Status](https://dev.azure.com/thejasgowdan/thejasgowdan/_apis/build/status/Thejas007.Angular6?branchName=master)](https://dev.azure.com/thejasgowdan/thejasgowdan/_build/latest?definitionId=1&branchName=master)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0917f5a7-8376-4acd-858b-8ae58448cbf7/deploy-status)](https://app.netlify.com/sites/wizardly-joliot-d4aa8f/deploys)
+
 # Angular6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
+
+# Deployed to https://wizardly-joliot-d4aa8f.netlify.com/
 
 ## Development server
 
@@ -29,4 +33,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-Deployed to https://wizardly-joliot-d4aa8f.netlify.com/
+
